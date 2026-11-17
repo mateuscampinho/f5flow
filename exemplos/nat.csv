@@ -1,0 +1,3 @@
+nome,ip_publico,porta_publica,ip_interno,porta_interna,dispositivo
+vip_portal_https,200.100.50.10,443,10.10.10.50,443,FW-Borda
+vip_portal_http,200.100.50.10,80,10.10.10.50,80,FW-Borda

@@ -1,0 +1,17 @@
+# Saidas geradas
+*.html
+fluxos*.csv
+*.json
+!exemplos/*
+
+# Dados de clientes (nunca versionar)
+*.qkview
+*.tar.gz
+*.ucs
+clientes/
+dados/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
